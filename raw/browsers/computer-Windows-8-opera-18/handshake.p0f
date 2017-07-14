@@ -1,0 +1,33 @@
+[2016/01/18 15:05:49] mod=syn|cli=184.169.137.212/43541|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=24|params=none|raw_sig=4:40+24:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/18 15:05:49] mod=mtu|cli=184.169.137.212/43541|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:05:49] mod=syn+ack|cli=184.169.137.212/43541|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/18 15:05:49] mod=mtu|cli=184.169.137.212/43541|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:05:49] mod=syn|cli=184.169.137.212/43542|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=25|params=none|raw_sig=4:39+25:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/18 15:05:49] mod=mtu|cli=184.169.137.212/43542|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:05:49] mod=uptime|cli=184.169.137.212/43542|srv=141.212.120.99/443|subj=cli|uptime=43 days 11 hrs 11 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2016/01/18 15:05:49] mod=syn+ack|cli=184.169.137.212/43542|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/18 15:05:49] mod=mtu|cli=184.169.137.212/43542|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:05:49] mod=uptime|cli=184.169.137.212/43542|srv=141.212.120.99/443|subj=srv|uptime=39 days 1 hrs 14 min (modulo 198 days)|raw_freq=225.81 Hz
+[2016/01/18 15:05:49] mod=uptime|cli=184.169.137.212/43541|srv=141.212.120.99/443|subj=cli|uptime=43 days 11 hrs 11 min (modulo 49 days)|raw_freq=977.27 Hz
+[2016/01/18 15:05:49] mod=ssl request|cli=184.169.137.212/43541|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=-1399|cipher_suites=c02b:c02f:009e:009c:c00a:c014:0039:0035:c007:c009:c011:c013:0033:0032:0005:0004:002f:000a:|extensions=0000:ff01:000a:000b:0023:3374:0010:754f:0005:000d:|random_nonce=8be1ba4e:5f3547fc:a7ccd4d1:187b4c71:f022aaec:10744c21:44a579a1|remote_time=1453148948|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,9e,9c,c00a,c014,39,35,c007,c009,c011,c013,33,32,5,4,2f,a:?0,ff01,a,b,23,3374,10,754f,5,d:ver
+[2016/01/18 15:05:49] mod=syn|cli=66.39.3.126/55464|srv=141.212.120.99/80|subj=cli|os=Linux 3.x|dist=15|params=none|raw_sig=4:49+15:0:1460:mss*10,7:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/18 15:05:49] mod=mtu|cli=66.39.3.126/55464|srv=141.212.120.99/80|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:05:49] mod=syn+ack|cli=66.39.3.126/55464|srv=141.212.120.99/80|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/18 15:05:49] mod=mtu|cli=66.39.3.126/55464|srv=141.212.120.99/80|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:05:49] mod=uptime|cli=66.39.3.126/55464|srv=141.212.120.99/80|subj=srv|uptime=39 days 1 hrs 14 min (modulo 198 days)|raw_freq=252.87 Hz
+[2016/01/18 15:05:49] mod=uptime|cli=66.39.3.126/55464|srv=141.212.120.99/80|subj=cli|uptime=30 days 7 hrs 54 min (modulo 198 days)|raw_freq=236.84 Hz
+[2016/01/18 15:05:49] mod=http request|cli=66.39.3.126/55464|srv=141.212.120.99/80|subj=cli|app=???|lang=none|params=none|raw_sig=0:Host,User-Agent:Connection,Accept,Accept-Encoding,Accept-Language,Accept-Charset,Keep-Alive:Drupal (+http://drupal.org/)
+[2016/01/18 15:05:49] mod=http response|cli=66.39.3.126/55464|srv=141.212.120.99/80|subj=srv|app=???|lang=none|params=none|raw_sig=1:Server,Date,Content-Type,?Content-Length,?Last-Modified,Connection=[close],?ETag,X-Real-IP=[66.39.3.126],Accept-Ranges=[bytes]:Keep-Alive:nginx/1.4.6 (Ubuntu)
+[2016/01/18 15:05:49] mod=syn|cli=184.169.137.212/43544|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=24|params=none|raw_sig=4:40+24:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/18 15:05:49] mod=mtu|cli=184.169.137.212/43544|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:05:49] mod=uptime|cli=184.169.137.212/43544|srv=141.212.120.99/443|subj=cli|uptime=43 days 11 hrs 11 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2016/01/18 15:05:49] mod=syn+ack|cli=184.169.137.212/43544|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/18 15:05:49] mod=mtu|cli=184.169.137.212/43544|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:05:49] mod=uptime|cli=184.169.137.212/43544|srv=141.212.120.99/443|subj=srv|uptime=39 days 1 hrs 14 min (modulo 198 days)|raw_freq=250.00 Hz
+[2016/01/18 15:05:49] mod=syn|cli=184.169.137.212/43545|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=25|params=none|raw_sig=4:39+25:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/18 15:05:49] mod=mtu|cli=184.169.137.212/43545|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:05:49] mod=syn+ack|cli=184.169.137.212/43545|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/18 15:05:49] mod=mtu|cli=184.169.137.212/43545|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:05:49] mod=uptime|cli=184.169.137.212/43545|srv=141.212.120.99/443|subj=cli|uptime=43 days 11 hrs 11 min (modulo 49 days)|raw_freq=986.67 Hz
+[2016/01/18 15:05:49] mod=ssl request|cli=184.169.137.212/43545|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=-1400|cipher_suites=c02b:c02f:009e:009c:c00a:c014:0039:0035:c007:c009:c011:c013:0033:0032:0005:0004:002f:000a:|extensions=0000:ff01:000a:000b:0023:3374:0010:754f:0005:000d:|random_nonce=779d79e8:23610c4a:22396cd1:edea960e:b942471e:f8e9decb:e9153736|remote_time=1453148949|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,9e,9c,c00a,c014,39,35,c007,c009,c011,c013,33,32,5,4,2f,a:?0,ff01,a,b,23,3374,10,754f,5,d:ver
+[2016/01/18 15:05:49] mod=ssl request|cli=184.169.137.212/43544|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=-1400|cipher_suites=c02b:c02f:009e:009c:c00a:c014:0039:0035:c007:c009:c011:c013:0033:0032:0005:0004:002f:000a:|extensions=0000:ff01:000a:000b:0023:3374:0010:754f:0005:000d:|random_nonce=d3fbdbf9:fe0a651:eb8b3e15:cadedba8:f4e67a2d:59a7f259:ca73188c|remote_time=1453148949|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,9e,9c,c00a,c014,39,35,c007,c009,c011,c013,33,32,5,4,2f,a:?0,ff01,a,b,23,3374,10,754f,5,d:ver

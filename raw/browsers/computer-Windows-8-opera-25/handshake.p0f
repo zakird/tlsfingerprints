@@ -1,0 +1,19 @@
+[2016/01/18 15:09:15] mod=syn|cli=184.169.137.212/44002|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=24|params=none|raw_sig=4:40+24:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/18 15:09:15] mod=mtu|cli=184.169.137.212/44002|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:09:15] mod=syn+ack|cli=184.169.137.212/44002|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/18 15:09:15] mod=mtu|cli=184.169.137.212/44002|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:09:15] mod=uptime|cli=184.169.137.212/44002|srv=141.212.120.99/443|subj=cli|uptime=43 days 11 hrs 15 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2016/01/18 15:09:15] mod=syn|cli=184.169.137.212/44003|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=25|params=none|raw_sig=4:39+25:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/18 15:09:15] mod=mtu|cli=184.169.137.212/44003|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:09:15] mod=uptime|cli=184.169.137.212/44003|srv=141.212.120.99/443|subj=cli|uptime=43 days 11 hrs 15 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2016/01/18 15:09:15] mod=syn+ack|cli=184.169.137.212/44003|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/18 15:09:15] mod=mtu|cli=184.169.137.212/44003|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:09:15] mod=uptime|cli=184.169.137.212/44003|srv=141.212.120.99/443|subj=srv|uptime=39 days 1 hrs 17 min (modulo 198 days)|raw_freq=252.53 Hz
+[2016/01/18 15:09:15] mod=ssl request|cli=184.169.137.212/44002|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=???|cipher_suites=c02b:c02f:009e:cc14:cc13:c00a:c009:c013:c014:c007:c011:0033:0032:0039:009c:002f:0035:000a:0005:0004:|extensions=0000:ff01:000a:000b:0023:3374:0010:7550:0005:0012:000d:|random_nonce=a7bd53ec:899f987e:79f467c4:dd040766:1a7035a1:63247851:89a0414|remote_time=4061575438|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,9e,cc14,cc13,c00a,c009,c013,c014,c007,c011,33,32,39,9c,2f,35,a,5,4:?0,ff01,a,b,23,3374,10,7550,5,12,d:ver,rtime
+[2016/01/18 15:09:15] mod=ssl request|cli=184.169.137.212/44003|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=???|cipher_suites=c02b:c02f:009e:cc14:cc13:c00a:c009:c013:c014:c007:c011:0033:0032:0039:009c:002f:0035:000a:0005:0004:|extensions=0000:ff01:000a:000b:0023:3374:0010:7550:0005:0012:000d:|random_nonce=2f7cf60b:510a3f7f:438ac9d7:d3e164ef:6bd8de4a:eda13e06:86e21cae|remote_time=3653732446|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,9e,cc14,cc13,c00a,c009,c013,c014,c007,c011,33,32,39,9c,2f,35,a,5,4:?0,ff01,a,b,23,3374,10,7550,5,12,d:ver,rtime
+[2016/01/18 15:09:17] mod=syn|cli=184.169.137.212/44008|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=25|params=none|raw_sig=4:39+25:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/18 15:09:17] mod=mtu|cli=184.169.137.212/44008|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:09:17] mod=uptime|cli=184.169.137.212/44008|srv=141.212.120.99/443|subj=cli|uptime=43 days 11 hrs 15 min (modulo 49 days)|raw_freq=999.32 Hz
+[2016/01/18 15:09:17] mod=syn+ack|cli=184.169.137.212/44008|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/18 15:09:17] mod=mtu|cli=184.169.137.212/44008|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/18 15:09:17] mod=uptime|cli=184.169.137.212/44008|srv=141.212.120.99/443|subj=srv|uptime=39 days 1 hrs 17 min (modulo 198 days)|raw_freq=249.49 Hz
