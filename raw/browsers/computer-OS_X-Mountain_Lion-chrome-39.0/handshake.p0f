@@ -1,0 +1,6 @@
+[2016/01/14 12:57:19] mod=syn|cli=208.52.180.101/53639|srv=141.212.120.99/443|subj=cli|os=iOS iPhone or iPad|dist=15|params=none|raw_sig=4:49+15:0:1460:65535,4:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/01/14 12:57:19] mod=mtu|cli=208.52.180.101/53639|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:57:19] mod=syn+ack|cli=208.52.180.101/53639|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 12:57:19] mod=mtu|cli=208.52.180.101/53639|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:57:19] mod=uptime|cli=208.52.180.101/53639|srv=141.212.120.99/443|subj=cli|uptime=8 days 20 hrs 44 min (modulo 49 days)|raw_freq=964.29 Hz
+[2016/01/14 12:57:19] mod=ssl request|cli=208.52.180.101/53639|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=???|cipher_suites=c02f:c02b:009e:cc14:cc13:cc15:c014:c00a:0039:c013:c009:0033:c011:c007:009c:0035:002f:0005:0004:000a:00ff:|extensions=0000:0023:000d:0005:3374:0012:0010:7550:000b:000a:|random_nonce=b6de2ac1:8713e4f9:a5bb2995:d4be1a26:a660f1c2:9a01bbbc:7a7d9703|remote_time=3684459910|is_random=1|is_compressed=0|raw_sig=3.3:c02f,c02b,9e,cc14,cc13,cc15,c014,c00a,39,c013,c009,33,c011,c007,9c,35,2f,5,4,a,ff:?0,23,d,5,3374,12,10,7550,b,a:ver,rtime

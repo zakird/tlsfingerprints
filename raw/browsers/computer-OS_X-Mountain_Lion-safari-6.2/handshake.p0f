@@ -1,0 +1,24 @@
+[2016/01/14 12:59:05] mod=syn|cli=66.39.3.126/38571|srv=141.212.120.99/80|subj=cli|os=Linux 3.x|dist=15|params=none|raw_sig=4:49+15:0:1460:mss*10,7:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/14 12:59:05] mod=mtu|cli=66.39.3.126/38571|srv=141.212.120.99/80|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:59:05] mod=syn+ack|cli=66.39.3.126/38571|srv=141.212.120.99/80|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 12:59:05] mod=mtu|cli=66.39.3.126/38571|srv=141.212.120.99/80|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:59:05] mod=uptime|cli=66.39.3.126/38571|srv=141.212.120.99/80|subj=cli|uptime=26 days 5 hrs 47 min (modulo 198 days)|raw_freq=230.77 Hz
+[2016/01/14 12:59:05] mod=http request|cli=66.39.3.126/38571|srv=141.212.120.99/80|subj=cli|app=???|lang=none|params=none|raw_sig=0:Host,User-Agent:Connection,Accept,Accept-Encoding,Accept-Language,Accept-Charset,Keep-Alive:Drupal (+http://drupal.org/)
+[2016/01/14 12:59:05] mod=uptime|cli=66.39.3.126/38571|srv=141.212.120.99/80|subj=srv|uptime=34 days 23 hrs 7 min (modulo 198 days)|raw_freq=263.16 Hz
+[2016/01/14 12:59:05] mod=http response|cli=66.39.3.126/38571|srv=141.212.120.99/80|subj=srv|app=???|lang=none|params=none|raw_sig=1:Server,Date,Content-Type,?Content-Length,?Last-Modified,Connection=[close],?ETag,X-Real-IP=[66.39.3.126],Accept-Ranges=[bytes]:Keep-Alive:nginx/1.4.6 (Ubuntu)
+[2016/01/14 12:59:06] mod=syn|cli=208.52.180.110/51888|srv=141.212.120.99/443|subj=cli|os=iOS iPhone or iPad|dist=14|params=none|raw_sig=4:50+14:0:1460:65535,4:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/01/14 12:59:06] mod=mtu|cli=208.52.180.110/51888|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:59:06] mod=syn+ack|cli=208.52.180.110/51888|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 12:59:06] mod=mtu|cli=208.52.180.110/51888|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:59:06] mod=uptime|cli=208.52.180.110/51888|srv=141.212.120.99/443|subj=srv|uptime=34 days 23 hrs 7 min (modulo 198 days)|raw_freq=250.00 Hz
+[2016/01/14 12:59:06] mod=uptime|cli=208.52.180.110/51888|srv=141.212.120.99/443|subj=cli|uptime=10 days 14 hrs 35 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2016/01/14 12:59:06] mod=ssl request|cli=208.52.180.110/51888|srv=141.212.120.99/443|subj=cli|app=Safari 6.x on Mac OS X 10.8.2+ degraded to SSL v3.0|match_sig=3.1:ff,c00a,c009,c007,c008,c014,c013,*,c00d,2f,5,4,35,a,33,39,16:?0,a,b:|ssl_version=3.1|drift=-1385|cipher_suites=00ff:c00a:c009:c007:c008:c014:c013:c011:c012:c004:c005:c002:c003:c00e:c00f:c00c:c00d:002f:0005:0004:0035:000a:0033:0039:0016:|extensions=0000:000a:000b:|random_nonce=64454a7e:36374457:448ab6a2:e92cc210:fc090097:c566e424:c0603d95|remote_time=1452795731|is_random=1|is_compressed=0|raw_sig=3.1:ff,c00a,c009,c007,c008,c014,c013,c011,c012,c004,c005,c002,c003,c00e,c00f,c00c,c00d,2f,5,4,35,a,33,39,16:?0,a,b:
+[2016/01/14 12:59:06] mod=host change|cli=208.52.180.110/51888|srv=141.212.120.99/443|subj=cli|reason=app_vs_os|raw_hits=0,1,1,1
+[2016/01/14 12:59:06] mod=syn|cli=208.52.180.110/51896|srv=141.212.120.99/443|subj=cli|os=iOS iPhone or iPad|dist=14|params=none|raw_sig=4:50+14:0:1460:65535,4:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/01/14 12:59:06] mod=mtu|cli=208.52.180.110/51896|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:59:06] mod=uptime|cli=208.52.180.110/51896|srv=141.212.120.99/443|subj=cli|uptime=11 days 18 hrs 52 min (modulo 55 days)|raw_freq=923.43 Hz
+[2016/01/14 12:59:06] mod=syn+ack|cli=208.52.180.110/51896|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 12:59:06] mod=mtu|cli=208.52.180.110/51896|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:59:06] mod=uptime|cli=208.52.180.110/51896|srv=141.212.120.99/443|subj=srv|uptime=34 days 23 hrs 7 min (modulo 198 days)|raw_freq=250.58 Hz
+[2016/01/14 12:59:06] mod=ssl request|cli=208.52.180.110/51896|srv=141.212.120.99/443|subj=cli|app=Safari 6.x on Mac OS X 10.8.2+ degraded to SSL v3.0|match_sig=3.1:ff,c00a,c009,c007,c008,c014,c013,*,c00d,2f,5,4,35,a,33,39,16:?0,a,b:|ssl_version=3.1|drift=-1386|cipher_suites=00ff:c00a:c009:c007:c008:c014:c013:c011:c012:c004:c005:c002:c003:c00e:c00f:c00c:c00d:002f:0005:0004:0035:000a:0033:0039:0016:|extensions=0000:000a:000b:|random_nonce=cff16b96:24ad4605:68130f08:9d251bc4:fbf1ddcc:4bde1475:38fd68d7|remote_time=1452795732|is_random=1|is_compressed=0|raw_sig=3.1:ff,c00a,c009,c007,c008,c014,c013,c011,c012,c004,c005,c002,c003,c00e,c00f,c00c,c00d,2f,5,4,35,a,33,39,16:?0,a,b:
+[2016/01/14 12:59:06] mod=host change|cli=208.52.180.110/51896|srv=141.212.120.99/443|subj=cli|reason=app_vs_os|raw_hits=0,2,2,2

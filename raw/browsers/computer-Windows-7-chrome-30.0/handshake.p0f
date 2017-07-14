@@ -1,0 +1,10 @@
+[2016/01/14 01:11:59] mod=syn|cli=208.52.180.57/1383|srv=141.212.120.99/443|subj=cli|os=Windows 7 or 8|dist=15|params=none|raw_sig=4:113+15:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+[2016/01/14 01:11:59] mod=mtu|cli=208.52.180.57/1383|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 01:11:59] mod=syn+ack|cli=208.52.180.57/1383|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,nop,nop,sok,nop,ws:df:0
+[2016/01/14 01:11:59] mod=mtu|cli=208.52.180.57/1383|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 01:11:59] mod=ssl request|cli=208.52.180.57/1383|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.1|drift=1452751919|cipher_suites=0039:0038:0035:0016:0013:000a:|extensions=|random_nonce=0:0:0:0:0:0:0|remote_time=0|is_random=1|is_compressed=0|raw_sig=3.1:39,38,35,16,13,a,700c0,33,32,2f,7,50080,30080,5,4,10080,15,12,9,60040,14,11,8,6,40080,3,20080,ff::v2,chlen
+[2016/01/14 01:11:59] mod=syn|cli=208.52.180.57/1384|srv=141.212.120.99/443|subj=cli|os=Windows 7 or 8|dist=15|params=none|raw_sig=4:113+15:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+[2016/01/14 01:11:59] mod=mtu|cli=208.52.180.57/1384|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 01:11:59] mod=syn+ack|cli=208.52.180.57/1384|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,nop,nop,sok,nop,ws:df:0
+[2016/01/14 01:11:59] mod=mtu|cli=208.52.180.57/1384|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 01:11:59] mod=ssl request|cli=208.52.180.57/1384|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=-1384|cipher_suites=c00a:c014:0039:006b:0035:003d:c007:c009:c023:c011:c013:c027:0033:0067:0032:0005:0004:002f:003c:000a:|extensions=0000:ff01:000a:000b:0023:3374:0010:754f:0005:000d:|random_nonce=1a14ccce:4c19e6d1:b85fe4b1:c035b1ef:3a1a18da:750b81b3:beba24b2|remote_time=1452753303|is_random=1|is_compressed=0|raw_sig=3.3:c00a,c014,39,6b,35,3d,c007,c009,c023,c011,c013,c027,33,67,32,5,4,2f,3c,a:?0,ff01,a,b,23,3374,10,754f,5,d:ver

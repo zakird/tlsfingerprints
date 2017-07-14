@@ -1,0 +1,12 @@
+[2016/01/14 13:50:47] mod=syn|cli=207.46.13.153/25042|srv=141.212.120.99/80|subj=cli|os=Windows 7 or 8|dist=17|params=fuzzy|raw_sig=4:111+17:0:1420:8192,0:mss,nop,nop,sok:df,id+,ecn:0
+[2016/01/14 13:50:47] mod=mtu|cli=207.46.13.153/25042|srv=141.212.120.99/80|subj=cli|link=generic tunnel or VPN|raw_mtu=1460
+[2016/01/14 13:50:47] mod=syn+ack|cli=207.46.13.153/25042|srv=141.212.120.99/80|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,0:mss,nop,nop,sok:df:0
+[2016/01/14 13:50:47] mod=mtu|cli=207.46.13.153/25042|srv=141.212.120.99/80|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:50:47] mod=http request|cli=207.46.13.153/25042|srv=141.212.120.99/80|subj=cli|app=Bingbot|lang=none|params=none|raw_sig=1:?Cache-Control,Connection=[Keep-Alive],Pragma=[no-cache],Accept=[*/*],Accept-Encoding=[gzip, deflate],Host,User-Agent:Accept-Language,Accept-Charset,Keep-Alive:Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+[2016/01/14 13:50:47] mod=http response|cli=207.46.13.153/25042|srv=141.212.120.99/80|subj=srv|app=nginx 0.x|lang=none|params=none|raw_sig=1:Server,Date,Content-Type,Transfer-Encoding=[chunked],Connection=[keep-alive],Content-Encoding=[gzip]:Keep-Alive,Accept-Ranges:nginx/1.4.6 (Ubuntu)
+[2016/01/14 13:50:50] mod=syn|cli=216.126.45.226/54838|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=14|params=generic|raw_sig=4:50+14:0:1460:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/01/14 13:50:50] mod=mtu|cli=216.126.45.226/54838|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:50:50] mod=syn+ack|cli=216.126.45.226/54838|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 13:50:50] mod=mtu|cli=216.126.45.226/54838|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:50:50] mod=uptime|cli=216.126.45.226/54838|srv=141.212.120.99/443|subj=cli|uptime=3 days 4 hrs 45 min (modulo 55 days)|raw_freq=928.57 Hz
+[2016/01/14 13:50:50] mod=ssl request|cli=216.126.45.226/54838|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=???|cipher_suites=c02b:c02f:c00a:c009:c013:c014:c007:c011:0033:0032:0039:002f:0035:000a:0005:0004:|extensions=0000:ff01:000a:000b:0023:3374:0005:000d:|random_nonce=bf238257:c0fa9a89:145a1c95:eb7655d5:1463b50f:900671f2:8bb16520|remote_time=4258404737|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,c00a,c009,c013,c014,c007,c011,33,32,39,2f,35,a,5,4:?0,ff01,a,b,23,3374,5,d:ver,rtime

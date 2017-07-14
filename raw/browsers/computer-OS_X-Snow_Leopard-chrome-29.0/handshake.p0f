@@ -1,0 +1,5 @@
+[2016/01/14 13:15:31] mod=syn|cli=66.219.167.172/55090|srv=141.212.120.99/443|subj=cli|os=Mac OS X 10.x|dist=15|params=none|raw_sig=4:49+15:0:1460:65535,3:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/01/14 13:15:31] mod=mtu|cli=66.219.167.172/55090|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:15:31] mod=syn+ack|cli=66.219.167.172/55090|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 13:15:31] mod=mtu|cli=66.219.167.172/55090|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:15:31] mod=ssl request|cli=66.219.167.172/55090|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=-1385|cipher_suites=c00a:c014:0039:006b:0035:003d:c007:c009:c023:c011:c013:c027:0033:0067:0032:0005:0004:002f:003c:000a:|extensions=0000:ff01:000a:000b:0023:3374:754f:000d:|random_nonce=5cfb32ef:2ebe2c99:fd1a3b58:6ec64bdf:45d3a8ac:e2f11f99:c81ffcc8|remote_time=1452796716|is_random=1|is_compressed=0|raw_sig=3.3:c00a,c014,39,6b,35,3d,c007,c009,c023,c011,c013,c027,33,67,32,5,4,2f,3c,a:?0,ff01,a,b,23,3374,754f,d:ver

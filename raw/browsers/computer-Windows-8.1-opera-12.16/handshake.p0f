@@ -1,0 +1,10 @@
+[2016/01/14 00:19:32] mod=syn|cli=208.52.180.85/1809|srv=141.212.120.99/443|subj=cli|os=Windows 7 or 8|dist=15|params=fuzzy|raw_sig=4:113+15:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+[2016/01/14 00:19:32] mod=mtu|cli=208.52.180.85/1809|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 00:19:32] mod=syn+ack|cli=208.52.180.85/1809|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,nop,nop,sok,nop,ws:df:0
+[2016/01/14 00:19:32] mod=mtu|cli=208.52.180.85/1809|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 00:19:32] mod=ssl request|cli=208.52.180.85/1809|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.1|drift=1452748772|cipher_suites=0039:0038:0035:0016:0013:000a:|extensions=|random_nonce=0:0:0:0:0:0:0|remote_time=0|is_random=1|is_compressed=0|raw_sig=3.1:39,38,35,16,13,a,700c0,33,32,2f,7,50080,30080,5,4,10080,15,12,9,60040,14,11,8,6,40080,3,20080,ff::v2,chlen
+[2016/01/14 00:19:32] mod=syn|cli=208.52.180.85/1812|srv=141.212.120.99/443|subj=cli|os=Windows 7 or 8|dist=15|params=fuzzy|raw_sig=4:113+15:0:1460:8192,2:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+[2016/01/14 00:19:32] mod=mtu|cli=208.52.180.85/1812|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 00:19:32] mod=syn+ack|cli=208.52.180.85/1812|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,nop,nop,sok,nop,ws:df:0
+[2016/01/14 00:19:32] mod=mtu|cli=208.52.180.85/1812|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 00:19:32] mod=ssl request|cli=208.52.180.85/1812|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.1|drift=-1384|cipher_suites=006b:006a:0069:0068:003d:0039:0038:0037:0036:0035:0067:0040:003f:003e:003c:0033:0032:0031:0030:002f:0005:0004:0013:000d:0016:0010:000a:|extensions=0000:ff01:0005:3374:|random_nonce=9ab2ae9a:79355c3f:d002f649:ab25a05e:fdf8ca3e:64ae3721:a58a003f|remote_time=1452750156|is_random=1|is_compressed=0|raw_sig=3.1:6b,6a,69,68,3d,39,38,37,36,35,67,40,3f,3e,3c,33,32,31,30,2f,5,4,13,d,16,10,a:?0,ff01,5,3374:

@@ -1,0 +1,11 @@
+[2016/01/14 12:02:58] mod=syn|cli=216.126.45.245/58519|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=15|params=generic|raw_sig=4:49+15:0:1460:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/01/14 12:02:58] mod=mtu|cli=216.126.45.245/58519|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:02:58] mod=syn+ack|cli=216.126.45.245/58519|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 12:02:58] mod=mtu|cli=216.126.45.245/58519|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:02:58] mod=syn|cli=216.126.45.245/58520|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=15|params=generic|raw_sig=4:49+15:0:1460:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/01/14 12:02:58] mod=mtu|cli=216.126.45.245/58520|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:02:58] mod=uptime|cli=216.126.45.245/58520|srv=141.212.120.99/443|subj=cli|uptime=11 days 18 hrs 48 min (modulo 49 days)|raw_freq=992.06 Hz
+[2016/01/14 12:02:58] mod=syn+ack|cli=216.126.45.245/58520|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 12:02:58] mod=mtu|cli=216.126.45.245/58520|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 12:02:58] mod=uptime|cli=216.126.45.245/58520|srv=141.212.120.99/443|subj=srv|uptime=34 days 22 hrs 11 min (modulo 198 days)|raw_freq=250.00 Hz
+[2016/01/14 12:02:58] mod=ssl request|cli=216.126.45.245/58520|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=???|cipher_suites=c02b:c02f:c00a:c009:c013:c014:c007:c011:0033:0032:0039:002f:0035:000a:0005:0004:|extensions=0000:ff01:000a:000b:0023:3374:0005:000d:|random_nonce=eb0547c8:738a7e4a:55384bc:8f6e0b4e:fc70dccd:6e7d0fd9:d5191a15|remote_time=444616122|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,c00a,c009,c013,c014,c007,c011,33,32,39,2f,35,a,5,4:?0,ff01,a,b,23,3374,5,d:ver,rtime

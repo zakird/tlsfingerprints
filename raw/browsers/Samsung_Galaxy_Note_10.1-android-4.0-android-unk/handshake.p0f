@@ -1,0 +1,16 @@
+[2016/01/14 14:02:36] mod=syn|cli=66.39.4.51/54177|srv=141.212.120.99/80|subj=cli|os=Linux 3.x|dist=15|params=none|raw_sig=4:49+15:0:1460:mss*10,7:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/14 14:02:36] mod=mtu|cli=66.39.4.51/54177|srv=141.212.120.99/80|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 14:02:36] mod=syn+ack|cli=66.39.4.51/54177|srv=141.212.120.99/80|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 14:02:36] mod=mtu|cli=66.39.4.51/54177|srv=141.212.120.99/80|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 14:02:36] mod=uptime|cli=66.39.4.51/54177|srv=141.212.120.99/80|subj=cli|uptime=57 days 13 hrs 37 min (modulo 165 days)|raw_freq=270.27 Hz
+[2016/01/14 14:02:36] mod=http request|cli=66.39.4.51/54177|srv=141.212.120.99/80|subj=cli|app=???|lang=none|params=none|raw_sig=0:Host,User-Agent:Connection,Accept,Accept-Encoding,Accept-Language,Accept-Charset,Keep-Alive:Drupal (+http://drupal.org/)
+[2016/01/14 14:02:36] mod=uptime|cli=66.39.4.51/54177|srv=141.212.120.99/80|subj=srv|uptime=29 days 4 hrs 9 min (modulo 165 days)|raw_freq=270.27 Hz
+[2016/01/14 14:02:36] mod=http response|cli=66.39.4.51/54177|srv=141.212.120.99/80|subj=srv|app=???|lang=none|params=none|raw_sig=1:Server,Date,Content-Type,?Content-Length,?Last-Modified,Connection=[close],?ETag,X-Real-IP=[66.39.4.51],Accept-Ranges=[bytes]:Keep-Alive:nginx/1.4.6 (Ubuntu)
+[2016/01/14 14:02:51] mod=syn|cli=66.219.167.102/60959|srv=141.212.120.99/443|subj=cli|os=iOS iPhone or iPad|dist=15|params=none|raw_sig=4:49+15:0:1460:65535,4:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/01/14 14:02:51] mod=mtu|cli=66.219.167.102/60959|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 14:02:51] mod=syn+ack|cli=66.219.167.102/60959|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 14:02:51] mod=mtu|cli=66.219.167.102/60959|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 14:02:51] mod=uptime|cli=66.219.167.102/60959|srv=141.212.120.99/443|subj=srv|uptime=35 days 0 hrs 11 min (modulo 198 days)|raw_freq=250.03 Hz
+[2016/01/14 14:02:51] mod=uptime|cli=66.219.167.102/60959|srv=141.212.120.99/443|subj=cli|uptime=6 days 13 hrs 41 min (modulo 49 days)|raw_freq=964.29 Hz
+[2016/01/14 14:02:51] mod=ssl request|cli=66.219.167.102/60959|srv=141.212.120.99/443|subj=cli|app=Android 4.X|match_sig=3.1:c014,c00a,39,38,c00f,c005,35,*,c00c,c002,5,4,ff:?0,b,a,23,3374:compr|ssl_version=3.1|drift=20214|cipher_suites=c014:c00a:0039:0038:c00f:c005:0035:c012:c008:0016:0013:c00d:c003:000a:c013:c009:0033:0032:c00e:c004:002f:c011:c007:c00c:c002:0005:0004:00ff:|extensions=0000:000b:000a:0023:3374:|random_nonce=d157b55b:c1199157:deee2104:d9bec662:ef26e11:c73cc444:94488eef|remote_time=1452777957|is_random=1|is_compressed=1|raw_sig=3.1:c014,c00a,39,38,c00f,c005,35,c012,c008,16,13,c00d,c003,a,c013,c009,33,32,c00e,c004,2f,c011,c007,c00c,c002,5,4,ff:?0,b,a,23,3374:compr
+[2016/01/14 14:02:51] mod=host change|cli=66.219.167.102/60959|srv=141.212.120.99/443|subj=cli|reason=app_vs_os|raw_hits=0,1,1,1

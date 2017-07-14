@@ -1,0 +1,31 @@
+[2016/01/14 13:54:37] mod=syn|cli=66.39.3.126/46013|srv=141.212.120.99/80|subj=cli|os=Linux 3.x|dist=15|params=none|raw_sig=4:49+15:0:1460:mss*10,7:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/14 13:54:37] mod=mtu|cli=66.39.3.126/46013|srv=141.212.120.99/80|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:54:37] mod=syn+ack|cli=66.39.3.126/46013|srv=141.212.120.99/80|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 13:54:37] mod=mtu|cli=66.39.3.126/46013|srv=141.212.120.99/80|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:54:37] mod=uptime|cli=66.39.3.126/46013|srv=141.212.120.99/80|subj=cli|uptime=26 days 6 hrs 42 min (modulo 198 days)|raw_freq=236.84 Hz
+[2016/01/14 13:54:37] mod=http request|cli=66.39.3.126/46013|srv=141.212.120.99/80|subj=cli|app=???|lang=none|params=none|raw_sig=0:Host,User-Agent:Connection,Accept,Accept-Encoding,Accept-Language,Accept-Charset,Keep-Alive:Drupal (+http://drupal.org/)
+[2016/01/14 13:54:37] mod=uptime|cli=66.39.3.126/46013|srv=141.212.120.99/80|subj=srv|uptime=35 days 0 hrs 2 min (modulo 198 days)|raw_freq=236.84 Hz
+[2016/01/14 13:54:37] mod=http response|cli=66.39.3.126/46013|srv=141.212.120.99/80|subj=srv|app=???|lang=none|params=none|raw_sig=1:Server,Date,Content-Type,?Content-Length,?Last-Modified,Connection=[close],?ETag,X-Real-IP=[66.39.3.126],Accept-Ranges=[bytes]:Keep-Alive:nginx/1.4.6 (Ubuntu)
+[2016/01/14 13:54:53] mod=syn|cli=66.39.4.51/48807|srv=141.212.120.99/80|subj=cli|os=Linux 3.x|dist=15|params=none|raw_sig=4:49+15:0:1460:mss*10,7:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/14 13:54:53] mod=mtu|cli=66.39.4.51/48807|srv=141.212.120.99/80|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:54:53] mod=syn+ack|cli=66.39.4.51/48807|srv=141.212.120.99/80|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 13:54:53] mod=mtu|cli=66.39.4.51/48807|srv=141.212.120.99/80|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:54:53] mod=uptime|cli=66.39.4.51/48807|srv=141.212.120.99/80|subj=srv|uptime=35 days 0 hrs 3 min (modulo 198 days)|raw_freq=250.02 Hz
+[2016/01/14 13:54:53] mod=uptime|cli=66.39.4.51/48807|srv=141.212.120.99/80|subj=cli|uptime=69 days 1 hrs 48 min (modulo 198 days)|raw_freq=257.14 Hz
+[2016/01/14 13:54:53] mod=http request|cli=66.39.4.51/48807|srv=141.212.120.99/80|subj=cli|app=???|lang=none|params=none|raw_sig=0:Host,User-Agent:Connection,Accept,Accept-Encoding,Accept-Language,Accept-Charset,Keep-Alive:Drupal (+http://drupal.org/)
+[2016/01/14 13:54:53] mod=http response|cli=66.39.4.51/48807|srv=141.212.120.99/80|subj=srv|app=???|lang=none|params=none|raw_sig=1:Server,Date,Content-Type,?Content-Length,?Last-Modified,Connection=[close],?ETag,X-Real-IP=[66.39.4.51],Accept-Ranges=[bytes]:Keep-Alive:nginx/1.4.6 (Ubuntu)
+[2016/01/14 13:55:40] mod=syn|cli=66.39.3.126/46626|srv=141.212.120.99/80|subj=cli|os=Linux 3.x|dist=15|params=none|raw_sig=4:49+15:0:1460:mss*10,7:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/14 13:55:40] mod=mtu|cli=66.39.3.126/46626|srv=141.212.120.99/80|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:55:40] mod=uptime|cli=66.39.3.126/46626|srv=141.212.120.99/80|subj=cli|uptime=26 days 6 hrs 43 min (modulo 198 days)|raw_freq=249.98 Hz
+[2016/01/14 13:55:40] mod=syn+ack|cli=66.39.3.126/46626|srv=141.212.120.99/80|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 13:55:40] mod=mtu|cli=66.39.3.126/46626|srv=141.212.120.99/80|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:55:40] mod=uptime|cli=66.39.3.126/46626|srv=141.212.120.99/80|subj=srv|uptime=35 days 0 hrs 3 min (modulo 198 days)|raw_freq=249.99 Hz
+[2016/01/14 13:55:40] mod=http request|cli=66.39.3.126/46626|srv=141.212.120.99/80|subj=cli|app=???|lang=none|params=none|raw_sig=0:Host,User-Agent:Connection,Accept,Accept-Encoding,Accept-Language,Accept-Charset,Keep-Alive:Drupal (+http://drupal.org/)
+[2016/01/14 13:55:40] mod=http response|cli=66.39.3.126/46626|srv=141.212.120.99/80|subj=srv|app=???|lang=none|params=none|raw_sig=1:Server,Date,Content-Type,?Content-Length,?Last-Modified,Connection=[close],?ETag,X-Real-IP=[66.39.3.126],Accept-Ranges=[bytes]:Keep-Alive:nginx/1.4.6 (Ubuntu)
+[2016/01/14 13:55:46] mod=syn|cli=208.52.180.144/54166|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=14|params=generic|raw_sig=4:50+14:0:1460:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/01/14 13:55:46] mod=mtu|cli=208.52.180.144/54166|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:55:46] mod=syn+ack|cli=208.52.180.144/54166|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/14 13:55:46] mod=mtu|cli=208.52.180.144/54166|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/14 13:55:46] mod=uptime|cli=208.52.180.144/54166|srv=141.212.120.99/443|subj=srv|uptime=35 days 0 hrs 3 min (modulo 198 days)|raw_freq=249.92 Hz
+[2016/01/14 13:55:46] mod=uptime|cli=208.52.180.144/54166|srv=141.212.120.99/443|subj=cli|uptime=9 days 3 hrs 48 min (modulo 49 days)|raw_freq=964.29 Hz
+[2016/01/14 13:55:46] mod=ssl request|cli=208.52.180.144/54166|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=-1385|cipher_suites=cc14:cc13:cc15:c014:c00a:0039:0038:0035:c012:c008:0016:0013:000a:c02f:c02b:c013:c009:00a2:009e:0033:0032:009c:002f:c011:c007:0005:0004:00ff:|extensions=0000:0023:000d:3374:000b:000a:|random_nonce=d191983f:19be3a51:eeec5fee:32e894a5:83574003:62457830:8d2f23a7|remote_time=1452799131|is_random=1|is_compressed=0|raw_sig=3.3:cc14,cc13,cc15,c014,c00a,39,38,35,c012,c008,16,13,a,c02f,c02b,c013,c009,a2,9e,33,32,9c,2f,c011,c007,5,4,ff:?0,23,d,3374,b,a:ver
