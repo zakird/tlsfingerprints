@@ -1,0 +1,5 @@
+[2016/01/15 00:37:27] mod=syn|cli=141.212.120.46/58009|srv=141.212.120.99/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*20,7:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/15 00:37:27] mod=mtu|cli=141.212.120.46/58009|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/15 00:37:27] mod=syn+ack|cli=141.212.120.46/58009|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/15 00:37:27] mod=mtu|cli=141.212.120.46/58009|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/15 00:37:27] mod=ssl request|cli=141.212.120.46/58009|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=-1390|cipher_suites=0033:0067:0045:0039:006b:0088:0016:0032:0040:0044:0038:006a:0087:0013:0066:002f:003c:0041:0035:003d:0084:000a:0005:0004:|extensions=0000:ff01:0023:000d:|random_nonce=beadd041:15d851b1:6c5462a1:47684e49:4cbdf3ec:85f1364d:1fb3819|remote_time=1452837637|is_random=1|is_compressed=0|raw_sig=3.3:33,67,45,39,6b,88,16,32,40,44,38,6a,87,13,66,2f,3c,41,35,3d,84,a,5,4:?0,ff01,23,d:ver
