@@ -1,0 +1,36 @@
+[2016/01/23 17:36:34] mod=syn|cli=184.169.137.212/39823|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=24|params=none|raw_sig=4:40+24:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/23 17:36:34] mod=mtu|cli=184.169.137.212/39823|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/23 17:36:34] mod=syn+ack|cli=184.169.137.212/39823|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/23 17:36:34] mod=mtu|cli=184.169.137.212/39823|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/23 17:36:34] mod=uptime|cli=184.169.137.212/39823|srv=141.212.120.99/443|subj=cli|uptime=48 days 13 hrs 42 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2016/01/23 17:36:34] mod=ssl request|cli=184.169.137.212/39823|srv=141.212.120.99/443|subj=cli|app=any MSIE or Safari on Windows XP|match_sig=3.1:4,5,a,9,64,62,3,6,13,12,63,?ff::|ssl_version=3.1|drift=-1417|cipher_suites=0004:0005:000a:0009:0064:0062:0003:0006:0013:0012:0063:|extensions=|random_nonce=44a29556:4f989ce1:742f0cde:71591209:c8899ec5:d9612dea:f9ab45a|remote_time=1453590011|is_random=1|is_compressed=0|raw_sig=3.1:4,5,a,9,64,62,3,6,13,12,63::
+[2016/01/23 17:36:34] mod=host change|cli=184.169.137.212/39823|srv=141.212.120.99/443|subj=cli|reason=app_vs_os|raw_hits=0,1,1,1
+[2016/01/23 17:36:35] mod=syn|cli=184.169.137.212/39826|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=24|params=none|raw_sig=4:40+24:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/23 17:36:35] mod=mtu|cli=184.169.137.212/39826|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/23 17:36:35] mod=uptime|cli=184.169.137.212/39826|srv=141.212.120.99/443|subj=cli|uptime=48 days 13 hrs 43 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2016/01/23 17:36:35] mod=syn+ack|cli=184.169.137.212/39826|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/23 17:36:35] mod=mtu|cli=184.169.137.212/39826|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/23 17:36:35] mod=uptime|cli=184.169.137.212/39826|srv=141.212.120.99/443|subj=srv|uptime=44 days 3 hrs 44 min (modulo 198 days)|raw_freq=250.23 Hz
+[2016/01/23 17:36:35] mod=syn|cli=184.169.137.212/39827|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=24|params=none|raw_sig=4:40+24:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/23 17:36:35] mod=mtu|cli=184.169.137.212/39827|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/23 17:36:35] mod=uptime|cli=184.169.137.212/39827|srv=141.212.120.99/443|subj=cli|uptime=48 days 13 hrs 43 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2016/01/23 17:36:35] mod=syn+ack|cli=184.169.137.212/39827|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/23 17:36:35] mod=mtu|cli=184.169.137.212/39827|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/23 17:36:35] mod=uptime|cli=184.169.137.212/39827|srv=141.212.120.99/443|subj=srv|uptime=44 days 3 hrs 44 min (modulo 198 days)|raw_freq=256.41 Hz
+[2016/01/23 17:36:35] mod=syn|cli=184.169.137.212/39828|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=25|params=none|raw_sig=4:39+25:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/23 17:36:35] mod=mtu|cli=184.169.137.212/39828|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/23 17:36:35] mod=syn+ack|cli=184.169.137.212/39828|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/23 17:36:35] mod=mtu|cli=184.169.137.212/39828|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/23 17:36:35] mod=uptime|cli=184.169.137.212/39828|srv=141.212.120.99/443|subj=cli|uptime=48 days 13 hrs 43 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2016/01/23 17:36:35] mod=ssl request|cli=184.169.137.212/39827|srv=141.212.120.99/443|subj=cli|app=any MSIE or Safari on Windows XP|match_sig=3.1:4,5,a,9,64,62,3,6,13,12,63,?ff::|ssl_version=3.1|drift=-1417|cipher_suites=0004:0005:000a:0009:0064:0062:0003:0006:0013:0012:0063:|extensions=|random_nonce=1d3ac957:c83c3d6:332431f6:354a797f:101174ef:c3944949:2cc08144|remote_time=1453590012|is_random=1|is_compressed=0|raw_sig=3.1:4,5,a,9,64,62,3,6,13,12,63::
+[2016/01/23 17:36:35] mod=host change|cli=184.169.137.212/39827|srv=141.212.120.99/443|subj=cli|reason=app_vs_os|raw_hits=0,2,2,2
+[2016/01/23 17:36:35] mod=ssl request|cli=184.169.137.212/39828|srv=141.212.120.99/443|subj=cli|app=any MSIE or Safari on Windows XP|match_sig=3.1:4,5,a,9,64,62,3,6,13,12,63,?ff::|ssl_version=3.1|drift=-1417|cipher_suites=0004:0005:000a:0009:0064:0062:0003:0006:0013:0012:0063:|extensions=|random_nonce=9fcc1a15:8a2b0f0e:adb2c3e4:8833f07e:20a36f79:8ab09615:9456478f|remote_time=1453590012|is_random=1|is_compressed=0|raw_sig=3.1:4,5,a,9,64,62,3,6,13,12,63::
+[2016/01/23 17:36:35] mod=host change|cli=184.169.137.212/39828|srv=141.212.120.99/443|subj=cli|reason=app_vs_os|raw_hits=0,3,3,3
+[2016/01/23 17:36:35] mod=syn|cli=184.169.137.212/39829|srv=141.212.120.99/443|subj=cli|os=Linux 3.x|dist=25|params=none|raw_sig=4:39+25:0:1460:mss*10,6:mss,sok,ts,nop,ws:df,id+:0
+[2016/01/23 17:36:35] mod=mtu|cli=184.169.137.212/39829|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/01/23 17:36:35] mod=uptime|cli=184.169.137.212/39829|srv=141.212.120.99/443|subj=cli|uptime=48 days 13 hrs 43 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2016/01/23 17:36:35] mod=syn+ack|cli=184.169.137.212/39829|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/01/23 17:36:35] mod=mtu|cli=184.169.137.212/39829|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/01/23 17:36:35] mod=uptime|cli=184.169.137.212/39829|srv=141.212.120.99/443|subj=srv|uptime=44 days 3 hrs 44 min (modulo 198 days)|raw_freq=252.75 Hz
+[2016/01/23 17:36:35] mod=ssl request|cli=184.169.137.212/39829|srv=141.212.120.99/443|subj=cli|app=any MSIE or Safari on Windows XP|match_sig=3.1:4,5,a,9,64,62,3,6,13,12,63,?ff::|ssl_version=3.1|drift=-1418|cipher_suites=0004:0005:000a:0009:0064:0062:0003:0006:0013:0012:0063:|extensions=|random_nonce=c218d10b:6fcd0bfd:3b53b089:7b313866:f22cf83b:575eb321:921d5dc9|remote_time=1453590013|is_random=1|is_compressed=0|raw_sig=3.1:4,5,a,9,64,62,3,6,13,12,63::
+[2016/01/23 17:36:35] mod=host change|cli=184.169.137.212/39829|srv=141.212.120.99/443|subj=cli|reason=app_vs_os|raw_hits=0,4,4,4

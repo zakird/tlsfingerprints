@@ -1,0 +1,30 @@
+[2016/04/13 09:03:42] mod=syn|cli=35.0.123.157/51105|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=9|params=generic|raw_sig=4:55+9:0:1460:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/04/13 09:03:42] mod=mtu|cli=35.0.123.157/51105|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/04/13 09:03:42] mod=syn+ack|cli=35.0.123.157/51105|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/04/13 09:03:42] mod=mtu|cli=35.0.123.157/51105|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/04/13 09:03:42] mod=syn|cli=35.0.123.157/51106|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=9|params=generic|raw_sig=4:55+9:0:1460:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/04/13 09:03:42] mod=mtu|cli=35.0.123.157/51106|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/04/13 09:03:42] mod=syn+ack|cli=35.0.123.157/51106|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/04/13 09:03:42] mod=mtu|cli=35.0.123.157/51106|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/04/13 09:03:42] mod=syn|cli=35.0.123.157/51107|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=9|params=generic|raw_sig=4:55+9:0:1460:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/04/13 09:03:42] mod=mtu|cli=35.0.123.157/51107|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/04/13 09:03:42] mod=syn+ack|cli=35.0.123.157/51107|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/04/13 09:03:42] mod=mtu|cli=35.0.123.157/51107|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/04/13 09:03:42] mod=syn|cli=35.0.123.157/51108|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=9|params=generic|raw_sig=4:55+9:0:1460:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/04/13 09:03:42] mod=mtu|cli=35.0.123.157/51108|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/04/13 09:03:42] mod=syn+ack|cli=35.0.123.157/51108|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/04/13 09:03:42] mod=mtu|cli=35.0.123.157/51108|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/04/13 09:03:42] mod=syn|cli=35.0.123.157/51109|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=9|params=generic|raw_sig=4:55+9:0:1460:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/04/13 09:03:42] mod=mtu|cli=35.0.123.157/51109|srv=141.212.120.99/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2016/04/13 09:03:42] mod=syn+ack|cli=35.0.123.157/51109|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/04/13 09:03:42] mod=mtu|cli=35.0.123.157/51109|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/04/13 09:03:42] mod=uptime|cli=35.0.123.157/51106|srv=141.212.120.99/443|subj=cli|uptime=2 days 2 hrs 38 min (modulo 49 days)|raw_freq=961.54 Hz
+[2016/04/13 09:03:42] mod=ssl request|cli=35.0.123.157/51106|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=???|cipher_suites=c02b:c02f:c00a:c014:c009:c013:009c:0035:002f:000a:00ff:|extensions=0000:000b:000a:0023:000d:0005:000f:0010:|random_nonce=648ec15:ac163ac9:fcad8c02:eb3b9e48:a3e8a8aa:ddd2e46e:38d1ec24|remote_time=52010516|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,c00a,c014,c009,c013,9c,35,2f,a,ff:?0,b,a,23,d,5,f,10:ver,rtime
+[2016/04/13 09:03:42] mod=uptime|cli=35.0.123.157/51107|srv=141.212.120.99/443|subj=cli|uptime=2 days 2 hrs 38 min (modulo 49 days)|raw_freq=936.51 Hz
+[2016/04/13 09:03:42] mod=ssl request|cli=35.0.123.157/51107|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=???|cipher_suites=c02b:c02f:c00a:c014:c009:c013:009c:0035:002f:000a:00ff:|extensions=0000:000b:000a:0023:000d:0005:000f:0010:|random_nonce=ecc59bc3:35ed1a9c:a8c9db93:fe2c13a0:9a4c7b3:2cb7a607:e0654c99|remote_time=3252470341|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,c00a,c014,c009,c013,9c,35,2f,a,ff:?0,b,a,23,d,5,f,10:ver,rtime
+[2016/04/13 09:03:42] mod=uptime|cli=35.0.123.157/51105|srv=141.212.120.99/443|subj=cli|uptime=2 days 8 hrs 15 min (modulo 55 days)|raw_freq=920.00 Hz
+[2016/04/13 09:03:42] mod=ssl request|cli=35.0.123.157/51105|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=???|cipher_suites=c02b:c02f:c00a:c014:c009:c013:009c:0035:002f:000a:00ff:|extensions=0000:000b:000a:0023:000d:0005:000f:0010:|random_nonce=62e936d7:aa8c585d:3c8e5b2f:676f92c1:82a68c2a:f747da2b:dca89529|remote_time=4160521810|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,c00a,c014,c009,c013,9c,35,2f,a,ff:?0,b,a,23,d,5,f,10:ver,rtime
+[2016/04/13 09:03:42] mod=uptime|cli=35.0.123.157/51109|srv=141.212.120.99/443|subj=cli|uptime=2 days 8 hrs 15 min (modulo 55 days)|raw_freq=905.88 Hz
+[2016/04/13 09:03:42] mod=ssl request|cli=35.0.123.157/51109|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=???|cipher_suites=c02b:c02f:c00a:c014:c009:c013:009c:0035:002f:000a:00ff:|extensions=0000:000b:000a:0023:000d:0005:000f:0010:|random_nonce=7fd9a2ab:4ad8dd6b:81091822:c82a3925:786fa05a:adea0886:21806409|remote_time=1075758167|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,c00a,c014,c009,c013,9c,35,2f,a,ff:?0,b,a,23,d,5,f,10:ver,rtime
+[2016/04/13 09:03:42] mod=uptime|cli=35.0.123.157/51108|srv=141.212.120.99/443|subj=cli|uptime=2 days 8 hrs 15 min (modulo 55 days)|raw_freq=927.54 Hz
+[2016/04/13 09:03:42] mod=ssl request|cli=35.0.123.157/51108|srv=141.212.120.99/443|subj=cli|app=???|match_sig=???|ssl_version=3.3|drift=???|cipher_suites=c02b:c02f:c00a:c014:c009:c013:009c:0035:002f:000a:00ff:|extensions=0000:000b:000a:0023:000d:0005:000f:0010:|random_nonce=5e28ec35:c0ef1fd5:236fcec1:97ff06e8:2919b4d4:7f2925d9:c1985c56|remote_time=4198238864|is_random=1|is_compressed=0|raw_sig=3.3:c02b,c02f,c00a,c014,c009,c013,9c,35,2f,a,ff:?0,b,a,23,d,5,f,10:ver,rtime

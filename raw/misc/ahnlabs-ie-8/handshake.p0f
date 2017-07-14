@@ -1,0 +1,14 @@
+[2016/02/11 12:00:20] mod=syn|cli=130.126.255.123/62783|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=16|params=generic|raw_sig=4:48+16:0:1416:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/02/11 12:00:20] mod=mtu|cli=130.126.255.123/62783|srv=141.212.120.99/443|subj=cli|link=???|raw_mtu=1456
+[2016/02/11 12:00:20] mod=syn+ack|cli=130.126.255.123/62783|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/02/11 12:00:20] mod=mtu|cli=130.126.255.123/62783|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/02/11 12:00:20] mod=ssl request|cli=130.126.255.123/62783|srv=141.212.120.99/443|subj=cli|app=MSIE 7-9 on Windows 7|match_sig=3.1:2f,35,5,a,c013,c014,c009,c00a,32,38,13,4:ff01,?0,5,a,b:|ssl_version=3.1|drift=-8684|cipher_suites=002f:0035:0005:000a:c013:c014:c009:c00a:0032:0038:0013:0004:|extensions=ff01:0000:0005:000a:000b:|random_nonce=3b3b8869:5577c2bc:1d65341a:ab03e693:77f719b:e8cdf488:8f5cf450|remote_time=1455218704|is_random=1|is_compressed=0|raw_sig=3.1:2f,35,5,a,c013,c014,c009,c00a,32,38,13,4:ff01,?0,5,a,b:
+[2016/02/11 12:00:20] mod=host change|cli=130.126.255.123/62783|srv=141.212.120.99/443|subj=cli|reason=app_vs_os|raw_hits=0,1,1,1
+[2016/02/11 12:00:21] mod=syn|cli=130.126.255.123/58271|srv=141.212.120.99/443|subj=cli|os=Mac OS X|dist=16|params=generic|raw_sig=4:48+16:0:1416:65535,5:mss,nop,ws,nop,nop,ts,sok,eol+1:df,id+:0
+[2016/02/11 12:00:21] mod=mtu|cli=130.126.255.123/58271|srv=141.212.120.99/443|subj=cli|link=???|raw_mtu=1456
+[2016/02/11 12:00:21] mod=uptime|cli=130.126.255.123/58271|srv=141.212.120.99/443|subj=cli|uptime=1 days 7 hrs 43 min (modulo 49 days)|raw_freq=960.47 Hz
+[2016/02/11 12:00:21] mod=syn+ack|cli=130.126.255.123/58271|srv=141.212.120.99/443|subj=srv|os=???|dist=0|params=none|raw_sig=4:64+0:0:1460:mss*20,6:mss,sok,ts,nop,ws:df:0
+[2016/02/11 12:00:21] mod=mtu|cli=130.126.255.123/58271|srv=141.212.120.99/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2016/02/11 12:00:21] mod=uptime|cli=130.126.255.123/58271|srv=141.212.120.99/443|subj=srv|uptime=62 days 22 hrs 8 min (modulo 198 days)|raw_freq=252.96 Hz
+[2016/02/11 12:00:21] mod=ssl request|cli=130.126.255.123/58271|srv=141.212.120.99/443|subj=cli|app=MSIE 7-9 on Windows 7|match_sig=3.1:2f,35,5,a,c013,c014,c009,c00a,32,38,13,4:ff01,?0,5,a,b:|ssl_version=3.1|drift=-8683|cipher_suites=002f:0035:0005:000a:c013:c014:c009:c00a:0032:0038:0013:0004:|extensions=ff01:0000:0005:000a:000b:|random_nonce=699625b9:3ae36e6a:50c0c119:22816e5e:bd3b1cd0:2dbdc206:2fc0e1cb|remote_time=1455218704|is_random=1|is_compressed=0|raw_sig=3.1:2f,35,5,a,c013,c014,c009,c00a,32,38,13,4:ff01,?0,5,a,b:
+[2016/02/11 12:00:21] mod=host change|cli=130.126.255.123/58271|srv=141.212.120.99/443|subj=cli|reason=app_vs_os|raw_hits=0,2,2,2

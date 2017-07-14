@@ -1,0 +1,31 @@
+Frame 7: 140 bytes on wire (1120 bits), 140 bytes captured (1120 bits)
+Linux cooked capture
+Internet Protocol Version 4, Src: 141.212.111.238, Dst: 10.45.213.241
+Transmission Control Protocol, Src Port: 60834 (60834), Dst Port: 443 (443), Seq: 1, Ack: 1, Len: 72
+Secure Sockets Layer
+    SSLv2 Record Layer: Client Hello
+        [Version: SSL 2.0 (0x0002)]
+        Length: 70
+        Handshake Message Type: Client Hello (1)
+        Version: TLS 1.0 (0x0301)
+        Cipher Spec Length: 45
+        Session ID Length: 0
+        Challenge Length: 16
+        Cipher Specs (15 specs)
+            Cipher Spec: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0x00c014)
+            Cipher Spec: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0x00c013)
+            Cipher Spec: TLS_RSA_WITH_AES_256_CBC_SHA (0x000035)
+            Cipher Spec: TLS_RSA_WITH_AES_128_CBC_SHA (0x00002f)
+            Cipher Spec: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA (0x00c00a)
+            Cipher Spec: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA (0x00c009)
+            Cipher Spec: TLS_DHE_DSS_WITH_AES_256_CBC_SHA (0x000038)
+            Cipher Spec: TLS_DHE_DSS_WITH_AES_128_CBC_SHA (0x000032)
+            Cipher Spec: TLS_RSA_WITH_3DES_EDE_CBC_SHA (0x00000a)
+            Cipher Spec: TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA (0x000013)
+            Cipher Spec: TLS_RSA_WITH_RC4_128_SHA (0x000005)
+            Cipher Spec: TLS_RSA_WITH_RC4_128_MD5 (0x000004)
+            Cipher Spec: SSL2_RC4_128_WITH_MD5 (0x010080)
+            Cipher Spec: SSL2_DES_192_EDE3_CBC_WITH_MD5 (0x0700c0)
+            Cipher Spec: TLS_EMPTY_RENEGOTIATION_INFO_SCSV (0x0000ff)
+        Challenge
+

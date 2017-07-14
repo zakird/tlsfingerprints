@@ -1,0 +1,96 @@
+Base test -- untested
+
+Gather HTTP headers -- Connected
+
+Gather HTTPS headers -- Connected
+
+Gather Client Hello -- in progress
+
+RC4 -- Connected
+
+1024 DH -- Connected
+
+2048 DH -- Connected
+
+HSTS Respect -- Errored -- 2
+
+TLS 1.0 -- Connected
+
+TLS 1.1 -- Connected
+
+TLS 1.2 -- Rejected
+
+BadSSL 2048 DH -- Connected
+
+BadSSL 2016 SHA1 -- Connected
+
+BadSSL 2017 SHA1 -- Connected
+
+BadSSL SHA256 -- Connected
+
+BadSSL 1,000 SANs -- Rejected
+
+BadSSL Bad Chain -- Connected
+
+BadSSL 8192 bit RSA -- Connected
+
+BadSSL CBC -- Connected
+
+BadSSL RC4 -- Connected
+
+BadSSL Mozilla Old -- Connected
+
+BadSSL Mozilla Intermediate -- Connected
+
+BadSSL Mozilla Modern -- Connected
+
+BadSSL 1024 DH -- Connected
+
+BadSSL HSTS -- Connected
+
+BadSSL upgrade -- Connected
+
+-------------------------------------------------------------------------
+ 
+Self-signed -- Rejected
+
+Wrong CN -- Rejected
+
+480 DH -- Connected
+
+512 DH -- Connected
+
+768 DH -- Connected
+
+BadSSL 10,000 SANs -- Rejected*
+
+BadSSL 480 DH -- Connected*
+
+BadSSL DH Small Sub-group -- Connected
+
+BadSSL DH Composite -- Connected
+
+BadSSL Superfish -- Connected*
+
+BadSSL eDell Root -- Connected*
+
+BadSSL DSD Test Provider -- Connected*
+
+BadSSL Expired -- Rejected*
+
+BadSSL Wrong Host -- Rejected*
+
+BadSSL Self-Signed -- Rejected*
+
+Leaf-signed -- Rejected
+
+Look-a-like #1 -- Connected
+
+SSLv3 -- Connected
+
+FREAK -- Rejected
+
+SSLv2 -- Rejected
+
+Broken Signature -- Connected
+
