@@ -5,7 +5,7 @@ This repo contains TLS fingerprints documented in [The Security Impact of HTTPS
 Interception](https://zakird.com/papers/https_interception.pdf).
 
 [Raw](https://github.com/zakird/tlsfingerprints/tree/master/raw) contains PCAP
-and p0f files of browsers and products we fingerprint.
+and p0f files of browsers and products we fingerprinted.
 [Processing](https://github.com/zakird/tlsfingerprints/tree/master/processing)
 contains a subset of the Python code we used for processing data for the paper.
 
