@@ -10,7 +10,7 @@ and p0f files of browsers and products we fingerprinted.
 contains a subset of the Python code we used for processing data for the paper.
 
 Note: these fingerprints were collected in early 2016. Browsers, antivirus
-products, and middleboxes ahave likely changed cryptographic configuration since
+products, and middleboxes have likely changed cryptographic configuration since
 this time. While this may be immediately apparent for versioned browsers like
 Firefox and Chrome, these could manifest as false positives in IE and Safari.
 
